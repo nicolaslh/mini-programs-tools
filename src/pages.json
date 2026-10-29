@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "工具集"
+      }
+    },
+    {
+      "path": "pages/social/index",
+      "style": {
+        "navigationBarTitleText": "社交界面"
+      }
+    }
+  ],
+  "subPackages": [
+    {
+      "root": "tools",
+      "pages": [
+        {
+          "path": "calculator/index",
+          "style": {
+            "navigationBarTitleText": "基础计算器"
+          }
+        },
+        {
+          "path": "timestamp/index",
+          "style": {
+            "navigationBarTitleText": "时间戳转换"
+          }
+        }
+      ]
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "工具集",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#f4f6f8"
+  }
+}

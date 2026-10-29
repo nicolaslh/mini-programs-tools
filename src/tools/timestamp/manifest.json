@@ -1,0 +1,13 @@
+{
+  "id": "timestamp",
+  "name": "时间戳转换",
+  "description": "在日期时间与 Unix 时间戳之间转换",
+  "category": "时间",
+  "route": "/tools/timestamp/index",
+  "icon": "时",
+  "accent": "#3f648c",
+  "keywords": ["时间戳", "Unix", "日期", "秒", "毫秒", "转换"],
+  "platforms": ["app", "h5", "mp-weixin", "mp-alipay", "mp-toutiao"],
+  "order": 20
+}
+

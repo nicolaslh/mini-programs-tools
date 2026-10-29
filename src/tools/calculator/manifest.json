@@ -1,0 +1,13 @@
+{
+  "id": "calculator",
+  "name": "基础计算器",
+  "description": "完成两个数的加减乘除运算",
+  "category": "计算",
+  "route": "/tools/calculator/index",
+  "icon": "±",
+  "accent": "#13795b",
+  "keywords": ["计算器", "加法", "减法", "乘法", "除法", "数字"],
+  "platforms": ["app", "h5", "mp-weixin", "mp-alipay", "mp-toutiao"],
+  "order": 10
+}
+
